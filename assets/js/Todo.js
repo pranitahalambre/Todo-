@@ -71,7 +71,7 @@ function onTodoSubmit(e) {
 
         Swal.fire({
           title: "Updated!",
-          text: "Todo updated successfully.",
+          text: "Todo item updated successfully.",
           icon: "success",
           timer: 2000,
           showConfirmButton: false
